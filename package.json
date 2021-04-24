@@ -1,0 +1,17 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "Archivo de prueba de node",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moments": "0.0.2",
+    "pug": "^3.0.2"
+  }
+}
